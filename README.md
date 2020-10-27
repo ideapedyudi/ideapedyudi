@@ -1,17 +1,17 @@
-### Hi there 👋 
-### Ini Muhammad Wahyudi!
+### Halo 👋 
+### Saya Muhammad Wahyudi!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xplacebo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ideapedyudi@gmail.com)
 
-Selamat datang di halaman Github saya! Saya Fernando dan saat ini saya sedang menyelesaikan sekolah di smk jurusan rekayasa perangkat lunak di smkn 1 gending
+Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya sedang menyelesaikan sekolah di smk jurusan rekayasa perangkat lunak di smkn 1 gending
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Hal-hal yang sedang saya kerjakan: 
-- belajar pemrograman web 
+- Belajar pemrograman web 
 - Membuat disen disen template website
 - Mengerjakan dan membuat aplikasi aplikasi web
 
@@ -21,17 +21,25 @@ Selamat datang di halaman Github saya! Saya Fernando dan saat ini saya sedang me
 - Berolahraga 3 hari seminggu
 - Meningkatkan CV saya dengan beberapa pendidikan selain sekolah
 
+#### :⭐️ : Hal ingin saya raih
+- Mengikuti lomba lks bidang web tecnology
+- Membuat aplikasi aplikasi bermanfaat untuk sekolah dan di luar
+- Meningkatkan portofolio saya dalam tahap kerja menjadi programmer
+
+
 #### :computer: Bahasa dan alat pemrograman: 
 <p>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xplacebo&show_icons=true&theme=dracula" />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+<code><img width="10%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fteknologi.id%2Finsight%2Ftutorial-codeigniter-lengkap%2F&psig=AOvVaw3vVvb2uk--z5OeZOvbqdQL&ust=1603857811598000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCA9I3y0-wCFQAAAAAdAAAAABAD"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>

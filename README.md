@@ -15,7 +15,7 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 - Membuat disen disen template website
 - Mengerjakan dan membuat aplikasi aplikasi web
 
-#### :muscle: Hal-hal yang saya tantang diri saya dengan::
+#### :muscle: Hal-hal yang saya tantang diri saya dengan:
 - Bangun lebih awal untuk memanfaatkan hari dengan baik
 - Coding minimal 8 jam sehari
 - Berolahraga 3 hari seminggu
@@ -29,7 +29,8 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 
 #### :computer: Bahasa dan alat pemrograman: 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xplacebo&show_icons=true&theme=dracula" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xplacebo&show_icons=true&hide_border=true" />
+  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -40,6 +41,5 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img width="10%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fteknologi.id%2Finsight%2Ftutorial-codeigniter-lengkap%2F&psig=AOvVaw3vVvb2uk--z5OeZOvbqdQL&ust=1603857811598000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCA9I3y0-wCFQAAAAAdAAAAABAD"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>

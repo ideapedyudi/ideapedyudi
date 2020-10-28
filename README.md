@@ -41,6 +41,6 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img width="10%" src="https://www.petanikode.com/img/ci/codeigniter.png"></code>
+<code><img width="10%" src="https://berita.teknologi.id/uploads/2018/04/CodeIgniter-620x350-c.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>

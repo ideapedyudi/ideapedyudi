@@ -21,7 +21,7 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 - Berolahraga 3 hari seminggu
 - Meningkatkan CV saya dengan beberapa pendidikan selain sekolah
 
-#### :⭐️ : Hal ingin saya raih
+#### ⭐️ Hal ingin saya raih
 - Mengikuti lomba lks bidang web tecnology
 - Membuat aplikasi aplikasi bermanfaat untuk sekolah dan di luar
 - Meningkatkan portofolio saya dalam tahap kerja menjadi programmer

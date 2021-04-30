@@ -7,7 +7,7 @@
 
 Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya sedang menyelesaikan sekolah di smk jurusan rekayasa perangkat lunak di smkn 1 gending
 
-<img align="right" alt="img" src="https:https://onedrive.live.com/embed?cid=E473700D0C6F6467&resid=E473700D0C6F6467%213604&authkey=AEf3DbFeTF2UatU" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/2.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Hal-hal yang sedang saya kerjakan: 

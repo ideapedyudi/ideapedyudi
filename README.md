@@ -29,12 +29,15 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 #### 😇 Foto Saya
 
 <p>
-  <br />
 <code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/2.jpg" width="16%" height="auto" /></code>
 <code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/wahyudi.JPG" width="16%" height="auto" /></code>
 <code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/158463309_250229040076026_5674048305269654730_n.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/wahyudi.JPG" width="16%" height="auto" /></code>
 <br />
-  <p/>
+<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/2020042205381603cbf2c7b332900cd42f3734a45d31a7.png" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/IMG-20210109-WA0028.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/IMG_20201216_084552.jpg" width="16%" height="auto" /></code>
+ <p/>
 
 #### :computer: Bahasa dan alat pemrograman: 
 <p>

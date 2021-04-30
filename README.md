@@ -57,5 +57,5 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/haiku-os/haiku-os-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 </p>

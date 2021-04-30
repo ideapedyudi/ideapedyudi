@@ -30,9 +30,9 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 
 <p>
   <br />
-<code><img align="right" alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/2.jpg" width="16%" height="auto" /></code>
-<code><img align="right" alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/wahyudi.JPG" width="16%" height="auto" /></code>
-<code><img align="right" alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/158463309_250229040076026_5674048305269654730_n.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/2.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/wahyudi.JPG" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/158463309_250229040076026_5674048305269654730_n.jpg" width="16%" height="auto" /></code>
 <br />
   <p/>
 

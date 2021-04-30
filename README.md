@@ -4,6 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xplacebo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ideapedyudi@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-facebook-blue)](https://www.facebook.com/profile.php?id=100034563691844)
 
 Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya sedang menyelesaikan sekolah di smk jurusan rekayasa perangkat lunak di smkn 1 gending
 

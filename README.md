@@ -7,7 +7,7 @@
 
 Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya sedang menyelesaikan sekolah di smk jurusan rekayasa perangkat lunak di smkn 1 gending
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<iframe src="https://onedrive.live.com/embed?cid=E473700D0C6F6467&resid=E473700D0C6F6467%213606&authkey=AGKlS7pAGcQeMj0" width="50%" height="auto" frameborder="0" scrolling="no"></iframe>
 
 
 #### 🌱 Hal-hal yang sedang saya kerjakan: 

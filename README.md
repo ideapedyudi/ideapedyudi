@@ -70,6 +70,6 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 
 ![](https://activity-graph.herokuapp.com/graph?username=xplacebo&theme=react-dark)
 <br />
-<img src="https://github-profile-trophy.vercel.app/?username=xplacebo&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+[![trophy](https://github-profile-trophy.vercel.app/?username=xplacebo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 

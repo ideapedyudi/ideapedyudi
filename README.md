@@ -67,3 +67,5 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 </p>
+
+![](https://activity-graph.herokuapp.com/graph?username=xplacebo&theme=react-dark)

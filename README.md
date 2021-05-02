@@ -72,8 +72,6 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 
 #### 🥈 Statistik Github saya
 
-<br />
-
 <p align="center">
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=xplacebo&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xplacebo&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>

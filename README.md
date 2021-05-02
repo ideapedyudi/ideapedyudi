@@ -43,7 +43,6 @@ Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya s
 
 #### :computer: Bahasa dan alat pemrograman 
 <p>
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xplacebo&show_icons=true&hide_border=true" />
   
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>

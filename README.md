@@ -1,6 +1,8 @@
 ### Halo 👋 
 ### Saya Muhammad Wahyudi!
 
+![alt text](https://github.com/xplacebo/xplacebo/blob/main/profile.png)
+
 #### 🙋‍♀️ Ikuti / Terhubung Dengan Saya
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xplacebo)
@@ -10,8 +12,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034563691844)
 [![Instagram](https://img.shields.io/badge/-instagram-c1558b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/muhammad_wahyudi.placebo/)
 [![Portofolio](https://img.shields.io/badge/-Website%20Portofolio-309b65?style=flat&logo=User&logoColor=white)](http://founderdroidyudi.epizy.com/?i=1)
-
-Selamat datang di halaman Github saya! Saya Muhammad Wahyudi dan saat ini saya sedang menyelesaikan sekolah di smk jurusan rekayasa perangkat lunak di smkn 1 gending
 
 #### 🌱 Hal-hal yang sedang saya kerjakan 
 - Belajar pemrograman web 

@@ -10,10 +10,10 @@
 [![Instagram](https://img.shields.io/badge/-instagram-c1558b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/muhammad_wahyudi.placebo/)
 [![Portofolio](https://img.shields.io/badge/-Website%20Portofolio-309b65?style=flat&logo=User&logoColor=white)](http://founderdroidyudi.epizy.com/?i=1)
 
-#### 🌱 Hal-hal yang sedang saya kerjakan 
-- Belajar pemrograman web 
-- Membuat disen disen template website
-- Mengerjakan dan membuat aplikasi aplikasi web
+#### 🌱 Hal-hal yang sedang saya lakukan 
+- Belajar pemrograman Javascript (React js)
+- Membuat disen disen template website dan android
+- Mengerjakan dan membuat aplikasi aplikasi web dan android
 
 #### :muscle: Hal-hal yang saya tantang diri saya dengan
 - Bangun lebih awal untuk memanfaatkan hari dengan baik
@@ -22,8 +22,8 @@
 - Meningkatkan CV saya dengan beberapa pendidikan selain sekolah
 
 #### ⭐️ Hal ingin saya raih
-- Mengikuti lomba lks bidang web tecnology
-- Membuat aplikasi aplikasi bermanfaat untuk sekolah dan di luar
+- Mengikuti coding bootcamp 
+- Membuat aplikasi aplikasi bermanfaat dan mengasah keterampilan saya
 - Meningkatkan portofolio saya dalam tahap kerja menjadi programmer
 
 #### 😇 Foto Saya

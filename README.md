@@ -1,6 +1,3 @@
-### Halo 👋 
-### Saya Muhammad Wahyudi!
-
 ![alt text](https://github.com/xplacebo/xplacebo/blob/main/profile.png)
 
 #### 🙋‍♀️ Ikuti / Terhubung Dengan Saya

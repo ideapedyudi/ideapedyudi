@@ -1,4 +1,4 @@
-![alt text](https://github.com/xplacebo/xplacebo/blob/main/profile.png)
+![alt text](https://github.com/xplacebo/xplacebo/blob/main/1610097570178.jpg)
 
 #### 🙋‍♀️ Ikuti / Terhubung Dengan Saya
 

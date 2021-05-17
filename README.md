@@ -1,6 +1,5 @@
-<center>
-![alt text](https://github.com/xplacebo/xplacebo/blob/main/1610097570178.jpg)
-</center>
+
+<img src="https://github.com/xplacebo/xplacebo/blob/main/1610097570178.jpg" style="text-align : center;" > </img>
 
 #### 🙋‍♀️ Ikuti / Terhubung Dengan Saya
 

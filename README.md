@@ -33,13 +33,13 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 #### 😇 Foto Saya
 
 <p>
-<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/2.jpg" width="16%" height="auto" /></code>
-<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/wahyudi.JPG" width="16%" height="auto" /></code>
-<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/158463309_250229040076026_5674048305269654730_n.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/msyudi/xplacebo-galeri_foto/blob/main/img/full/2.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/msyudi/xplacebo-galeri_foto/blob/main/img/full/wahyudi.JPG" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/msyudi/xplacebo-galeri_foto/blob/main/img/full/158463309_250229040076026_5674048305269654730_n.jpg" width="16%" height="auto" /></code>
 <br />
-<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/160576788_3567296660034501_246666480494093865_n.jpg" width="16%" height="auto" /></code>
-<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/IMG-20210109-WA0028.jpg" width="16%" height="auto" /></code>
-<code><img alt="img" src="https://github.com/xplacebo/xplacebo-galeri_foto/blob/main/img/full/IMG_20201216_084552.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/msyudi/xplacebo-galeri_foto/blob/main/img/full/160576788_3567296660034501_246666480494093865_n.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/msyudi/xplacebo-galeri_foto/blob/main/img/full/IMG-20210109-WA0028.jpg" width="16%" height="auto" /></code>
+<code><img alt="img" src="https://github.com/msyudi/xplacebo-galeri_foto/blob/main/img/full/IMG_20201216_084552.jpg" width="16%" height="auto" /></code>
  <p/>
 
 #### :computer: Bahasa dan alat pemrograman 

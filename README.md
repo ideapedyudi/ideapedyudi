@@ -1,6 +1,9 @@
 
 <img src="https://github.com/xplacebo/xplacebo/blob/main/1610097570178.jpg" style="text-align : center;" > </img>
 
+#### 🧑Tentang Saya
+Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stacl developer, yang sedang kamu lihat ini adalah hasil dari kode - kode yang sudah aku rangkai, sehingga terciptalah ini.
+
 #### 🙋‍♀️ Ikuti / Terhubung Dengan Saya
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xplacebo)

@@ -62,12 +62,12 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 #### 🥈 Statistik Github saya
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=msyudi&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=msyudi&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=ideapedyudi&theme=react-dark)
 <br />
 <br />
-<img src="https://github-profile-trophy.vercel.app/?username=aryashah2k&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<img src="https://github-profile-trophy.vercel.app/?username=ideapedyudi&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 

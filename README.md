@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/dsada.jpg" style="text-align : center;" > </img>
+<img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/Untitled.jpg" style="text-align : center;" > </img>
 
 #### 🧑Tentang Saya
 Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang sedang kamu lihat ini adalah hasil dari kode - kode yang sudah aku rangkai, sehingga terciptalah ini.

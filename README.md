@@ -1,5 +1,5 @@
 <p>
-<center><img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/imageedit_9_8791132600.gif" width="40%" style="text-align : center;" > </img></center>
+<center><img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/imageedit_9_8791132600.gif" width="40%" style="text-align : center;margin-left: 50px;" > </img></center>
 </p>
 
 #### 🧑Tentang Saya

@@ -1,5 +1,6 @@
-
-<center><img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/imageedit_9_8791132600.gif" style="text-align : center;" > </img></center>
+<p>
+<center><img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/imageedit_9_8791132600.gif" width="60%" style="text-align : center;" > </img></center>
+</p>
 
 #### 🧑Tentang Saya
 Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang sedang kamu lihat ini adalah hasil dari kode - kode yang sudah aku rangkai, sehingga terciptalah ini.

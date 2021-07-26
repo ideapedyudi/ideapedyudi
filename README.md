@@ -19,6 +19,7 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ngodingkitaofficial@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ngodingkita)
 [![Instagram](https://img.shields.io/badge/-instagram-c1558b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ngodingkita/)
+[![YouTube](https://img.shields.io/badge/-YouTube-white?style=flat&logo=YouTube&logoColor=red)](https://www.youtube.com/channel/UCYKkfkl7CIvWTKO4eFgCRQg)
 
 #### 🌱 Hal-hal yang sedang saya lakukan 
 - Belajar pemrograman Javascript (React js)

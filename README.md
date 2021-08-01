@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/jsreact.png" width="50%"> </img>
+  
+<img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/jsreact.png" width="40%"> </img>
 </p>
 
 #### 🧑Tentang Saya

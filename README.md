@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/jsreactimg.png" width="40%"> </img>
+<img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/jsreactimg.png" width="400"> </img>
 </p>
 
 #### 🧑Tentang Saya

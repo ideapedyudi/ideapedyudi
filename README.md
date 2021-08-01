@@ -16,6 +16,7 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 [![Portofolio](https://img.shields.io/badge/-Website%20Portofolio-309b65?style=flat&logo=User&logoColor=white)](http://founderdroidyudi.epizy.com/?i=1)
 
 #### 👩‍💻 Pemilik Ngoding Kita
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NgodingKita)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ngodingkitaofficial@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ngodingkita)
 [![Instagram](https://img.shields.io/badge/-instagram-c1558b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ngodingkita/)

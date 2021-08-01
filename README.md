@@ -66,6 +66,11 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></code>
 </p>
 
 #### 🥈 Statistik Github saya

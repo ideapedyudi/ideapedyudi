@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/IMG_20210726_153932.jpg" width="50%"> </img>
+<img src="https://github.com/ideapedyudi/ideapedyudi/blob/main/js.png" width="50%"> </img>
 </p>
 
 #### 🧑Tentang Saya

@@ -26,7 +26,7 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 #### 🌱 Hal-hal yang sedang saya lakukan 
 - Belajar pemrograman Javascript (React js)
 - Membuat disen disen template website dan android
-- Mengerjakan dan membuat aplikasi aplikasi web dan android
+- Bekontribusi dalam pekerjaan
 
 #### :muscle: Hal-hal yang saya tantang diri saya dengan
 - Bangun lebih awal untuk memanfaatkan hari dengan baik
@@ -35,9 +35,9 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 - Meningkatkan CV saya dengan beberapa pendidikan selain sekolah
 
 #### ⭐️ Hal ingin saya raih
-- Mengikuti coding bootcamp 
+- Berkontribusi merubah peradaban menggunakan programming 
 - Membuat aplikasi aplikasi bermanfaat dan mengasah keterampilan saya
-- Meningkatkan portofolio saya dalam tahap kerja menjadi programmer
+- Meningkatkan portofolio dan pengalaman dalam bisnis
 
 #### :computer: Bahasa dan alat pemrograman 
 <p>
@@ -77,6 +77,10 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 
 <p align="center">
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" />
+</p>
+
+<p align="center">
+<img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=ideapedyudi&include_all_commits=true&hide_border=true&theme=dark" />
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ideapedyudi&theme=react-dark)

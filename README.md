@@ -26,7 +26,7 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 #### 🌱 Hal-hal yang sedang saya lakukan 
 - Belajar pemrograman Javascript (React js)
 - Membuat disen disen template website dan android
-- Bekontribusi dalam pekerjaan
+- Berkontribusi dalam pekerjaan
 
 #### :muscle: Hal-hal yang saya tantang diri saya dengan
 - Bangun lebih awal untuk memanfaatkan hari dengan baik
@@ -76,11 +76,11 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 #### 🥈 Statistik Github saya
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" />
+<img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=ideapedyudi&include_all_commits=true&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=ideapedyudi&include_all_commits=true&hide_border=true&theme=dark" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" />
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ideapedyudi&theme=react-dark)

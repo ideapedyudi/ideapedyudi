@@ -76,11 +76,11 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 #### 🥈 Statistik Github saya
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=ideapedyudi&include_all_commits=true&hide_border=true&theme=dark" />
+<img align="" height='150px' src="https://github-readme-streak-stats.herokuapp.com/?user=ideapedyudi&theme=gotham" />
 </p>
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham" alt="aryashah2k" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideapedyudi&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ideapedyudi&theme=react-dark)

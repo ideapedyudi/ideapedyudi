@@ -24,8 +24,7 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 [![YouTube](https://img.shields.io/badge/-YouTube-white?style=flat&logo=YouTube&logoColor=red)](https://www.youtube.com/channel/UCYKkfkl7CIvWTKO4eFgCRQg)
 
 #### 🌱 Hal-hal yang sedang saya lakukan 
-- Belajar pemrograman Javascript (React js)
-- Membuat disen disen template website dan android
+- Belajar pemrograman Javascript (#reactjs #nextjs #nodejs #vuejs #nuxtjs #remixjs #docker #kubernate #sql #nosql #web3)
 - Berkontribusi dalam pekerjaan
 
 #### :muscle: Hal-hal yang saya tantang diri saya dengan

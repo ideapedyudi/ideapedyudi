@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://profile-assets.showwcase.com/28896/1658307490112-1658307488499-1653990120458.jfif"> </img>
+<img src="https://raw.githubusercontent.com/ideapedyudi/ideapedyudi/main/1500x500.jpg"> </img>
 </p>
 
 #### 🧑Tentang Saya

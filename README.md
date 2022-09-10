@@ -88,6 +88,6 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 ![](https://activity-graph.herokuapp.com/graph?username=ideapedyudi&theme=gotham)
 <br />
 <br />
-<img src="https://github-profile-trophy.vercel.app/?username=ideapedyudi&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<img src="https://github-profile-trophy.vercel.app/?username=ideapedyudi&theme=onedark">
 
 

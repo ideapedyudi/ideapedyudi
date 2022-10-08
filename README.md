@@ -5,6 +5,8 @@
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ideapedyudi)](https://holopin.io/@ideapedyudi)
 
+<img align="" width='100%' src="https://raw.githubusercontent.com/ideapedyudi/ideapedyudi/output/github-contribution-grid-snake.svg" />
+
 #### 🧑Tentang Saya
 Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang sedang kamu lihat ini adalah hasil dari kode - kode yang sudah aku rangkai, sehingga terciptalah ini.
 
@@ -88,7 +90,6 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ideapedyudi&theme=gotham)
-<img align="" width='100%' src="https://raw.githubusercontent.com/ideapedyudi/ideapedyudi/output/github-contribution-grid-snake.svg" />
 </p>
 <br />
 <br />

@@ -19,11 +19,7 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034563691844)
 [![Instagram](https://img.shields.io/badge/-instagram-c1558b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ideapedyudi/)
 [![Portofolio](https://img.shields.io/badge/-Website%20Portofolio-309b65?style=flat&logo=User&logoColor=white)](http://founderdroidyudi.epizy.com/?i=1)
-
-#### 👩‍💻 Pemilik Eros Script
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eros-script)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.erosscript@gmail.com)
-[![NPM](https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~eros-script)
+[![NPM](https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ideapedyudi)
 
 #### 🌱 Hal-hal yang sedang saya lakukan 
 - Belajar pemrograman Javascript (#reactjs #nextjs #nodejs #vuejs #nuxtjs #remixjs #docker #kubernate #sql #nosql #web3)

@@ -3,6 +3,8 @@
 <img src="https://raw.githubusercontent.com/ideapedyudi/ideapedyudi/main/1500x500.jpg"> </img>
 </p>
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=ideapedyudi)](https://holopin.io/@ideapedyudi)
+
 #### 🧑Tentang Saya
 Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang sedang kamu lihat ini adalah hasil dari kode - kode yang sudah aku rangkai, sehingga terciptalah ini.
 

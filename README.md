@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 <!-- <img src="https://raw.githubusercontent.com/ideapedyudi/ideapedyudi/main/1500x500.jpg"> </img> -->
-<a href="https://app.daily.dev/ideapedyudi"><img src="https://api.daily.dev/devcards/v2/29n4Ia9h2QOyAx3yh4WIa.png?r=3iw&type=wide" width="652" alt="muhammad wahyudi's Dev Card"/></a>
+<a href="https://app.daily.dev/ideapedyudi"><img src="https://api.daily.dev/devcards/v2/29n4Ia9h2QOyAx3yh4WIa.png?r=3iw&type=wide" width="552" alt="muhammad wahyudi's Dev Card"/></a>
 </p>
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ideapedyudi)](https://holopin.io/@ideapedyudi)

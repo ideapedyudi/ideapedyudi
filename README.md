@@ -1,13 +1,11 @@
-<br>
-<p align="center">
 <!-- <img src="https://raw.githubusercontent.com/ideapedyudi/ideapedyudi/main/1500x500.jpg"> </img> -->
 <!--  <a href="https://app.daily.dev/ideapedyudi"><img src="https://api.daily.dev/devcards/v2/29n4Ia9h2QOyAx3yh4WIa.png?r=3iw&type=wide" width="552" alt="muhammad wahyudi's Dev Card"/></a> -->
-</p>
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ideapedyudi)](https://holopin.io/@ideapedyudi)
 
-#### 🧑Tentang Saya
-Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang sedang kamu lihat ini adalah hasil dari kode - kode yang sudah aku rangkai, sehingga terciptalah ini.
+#### 🧑 Tentang Saya
+Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang sedang kamu lihat ini adalah hasil dari kode - kode yang sudah aku rangkai, sehingga terciptalah ini.  
+Selain itu, aku juga tertarik untuk mendalami dunia **Web3** dan **Large Language Models (LLM)** sebagai bagian dari eksplorasi teknologi masa depan. 🚀
 
 #### 🙋‍♀️ Ikuti / Terhubung Dengan Saya
 
@@ -21,8 +19,10 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 [![NPM](https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ideapedyudi)
 
 #### 🌱 Hal-hal yang sedang saya lakukan 
-- Belajar pemrograman Javascript (#reactjs #nextjs #nodejs #vuejs #nuxtjs #remixjs #docker #kubernate #sql #nosql #web3)
+- Belajar pemrograman Javascript (#reactjs #nextjs #nodejs #vuejs #nuxtjs #remixjs #docker #kubernate #sql #nosql #web3 #llm)
 - Berkontribusi dalam pekerjaan
+- Eksperimen dengan **Web3** (blockchain, smart contracts, dApps)
+- Bermain-main dengan **LLM** (AI generatif, chatbot, dan automasi cerdas)
 
 #### :muscle: Hal-hal yang saya tantang diri saya dengan
 - Bangun lebih awal untuk memanfaatkan hari dengan baik
@@ -32,7 +32,7 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 
 #### ⭐️ Hal ingin saya raih
 - Berkontribusi merubah peradaban menggunakan programming 
-- Membuat aplikasi aplikasi bermanfaat dan mengasah keterampilan saya
+- Membuat aplikasi bermanfaat, baik di Web2, Web3 maupun AI/LLM
 - Meningkatkan portofolio dan pengalaman dalam bisnis
 
 #### :computer: Bahasa dan alat pemrograman 
@@ -71,7 +71,18 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/i18next/i18next-ar21.svg"></code>
-<code><img width="5%" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+ <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+ <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
+
 </p>
 
 #### 🥈 Statistik Github saya
@@ -79,5 +90,3 @@ Hai, Namaku Muhammad Wahyudi. Aku adalah seorang full stack developer, yang seda
 <p align="center">
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideapedyudi&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
-
-

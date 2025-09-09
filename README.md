@@ -2,8 +2,8 @@
 <!--  <a href="https://app.daily.dev/ideapedyudi"><img src="https://api.daily.dev/devcards/v2/29n4Ia9h2QOyAx3yh4WIa.png?r=3iw&type=wide" width="552" alt="muhammad wahyudi's Dev Card"/></a> -->
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 </p>
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ideapedyudi)](https://holopin.io/@ideapedyudi)

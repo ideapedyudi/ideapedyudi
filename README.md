@@ -92,10 +92,6 @@ Selain itu, aku juga tertarik untuk mendalami dunia **Web3** dan **Large Languag
 
 #### 🥈 Statistik Github saya
 
-<p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideapedyudi&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-</p>
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>

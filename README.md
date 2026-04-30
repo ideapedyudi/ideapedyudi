@@ -5,7 +5,6 @@
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=ideapedyudi)](https://holopin.io/@ideapedyudi)
 
----
 
 ### 🧑 About Me
 Hi, my name is **Muhammad Wahyudi**. I am a **Full Stack Developer**.  
@@ -17,7 +16,6 @@ I am also highly interested in exploring:
 
 I continuously push myself to stay relevant with modern technologies and evolving software architecture.
 
----
 
 ### 🙋‍♂️ Connect With Me
 
@@ -30,7 +28,6 @@ I continuously push myself to stay relevant with modern technologies and evolvin
 [![Portfolio](https://img.shields.io/badge/-Website%20Portfolio-309b65?style=flat&logo=User&logoColor=white)](http://founderdroidyudi.epizy.com/?i=1)
 [![NPM](https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ideapedyudi)
 
----
 
 ### 🌱 What I’m Currently Doing
 - Deepening my expertise in the **JavaScript ecosystem**
@@ -42,15 +39,12 @@ I continuously push myself to stay relevant with modern technologies and evolvin
 - Building and experimenting with **Web3 applications**
 - Developing solutions using **LLM / AI**
 
----
 
 ### 💪 Personal Challenges
 - Waking up earlier to maximize productivity
 - Coding consistently for at least **8 hours per day**
 - Exercising **3 times per week**
 - Continuously improving my **skills and portfolio**
-
----
 
 ### ⭐ Goals
 - Contribute to shaping the future through **software engineering**
@@ -59,8 +53,6 @@ I continuously push myself to stay relevant with modern technologies and evolvin
   - Web3
   - AI / LLM
 - Grow both technically and professionally in the tech industry
-
----
 
 ### 🖥️ Programming Languages & Tools
 
@@ -126,8 +118,6 @@ I continuously push myself to stay relevant with modern technologies and evolvin
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
 </p>
-
----
 
 ### 🥈 My GitHub Stats
 

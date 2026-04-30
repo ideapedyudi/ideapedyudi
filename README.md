@@ -116,6 +116,8 @@ I continuously push myself to stay relevant with modern technologies and evolvin
   <img src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&theme=highcontrast&hide_border=true&show_icons=true&title_color=175553&icon_color=175553&text_bold=false&text_color=9e9e9e" alt="GitHub stats" height="170" />
 </p>
 
+<br />
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>

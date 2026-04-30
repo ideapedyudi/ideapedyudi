@@ -111,7 +111,7 @@ I continuously push myself to stay relevant with modern technologies and evolvin
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ideapedyudi&theme=transparent&ring=175553&file=175553&currStreakNum=175553&currStreakLabel=175553&hide_border=true" alt="GitHub Streak" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ideapedyudi&theme=highcontrast&ring=175553&file=175553&currStreakNum=175553&currStreakLabel=175553&hide_border=true" alt="GitHub Streak" height="170" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=ideapedyudi&theme=transparent&hide_border=true&show_icons=true&title_color=175553&icon_color=175553&text_bold=false&text_color=9e9e9e" alt="GitHub stats" height="170" />
 </p>

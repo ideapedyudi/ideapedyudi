@@ -109,6 +109,10 @@ I continuously push myself to stay relevant with modern technologies and evolvin
 
 ### 🥈 My GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ideapedyudi&theme=dark&ring=175553&file=175553&currStreakNum=175553&currStreakLabel=175553&hide_border=true)](https://git.io/streak-stats)
+
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideapedyudi&hide_border=true&show_icons=true&bg_color=151515&title_color=175553&icon_color=175553&text_bold=false&text_color=9e9e9e)
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>

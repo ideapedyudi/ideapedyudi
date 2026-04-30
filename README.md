@@ -54,6 +54,8 @@ I continuously push myself to stay relevant with modern technologies and evolvin
   - AI / LLM
 - Grow both technically and professionally in the tech industry
 
+<br />
+
 ### 🖥️ Programming Languages & Tools
 
 <p>
@@ -106,6 +108,8 @@ I continuously push myself to stay relevant with modern technologies and evolvin
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
 </p>
+
+<br />
 
 ### 🥈 My GitHub Stats
 

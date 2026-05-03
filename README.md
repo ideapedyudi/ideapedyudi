@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 </p>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=ideapedyudi)](https://holopin.io/@ideapedyudi)
+[![An image of @ideapedyudi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ideapedyudi)](https://holopin.io/@ideapedyudi)
 
 
 ### 🧑 About Me

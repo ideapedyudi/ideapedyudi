@@ -25,7 +25,7 @@ I continuously push myself to stay relevant with modern technologies and evolvin
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034563691844)
 [![Instagram](https://img.shields.io/badge/-Instagram-c1558b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ideapedyudi/)
 [![Portfolio](https://img.shields.io/badge/-Website%20Portfolio-309b65?style=flat&logo=User&logoColor=white)](http://founderdroidyudi.epizy.com/?i=1)
-[![NPM](https://img.shields.io/badge/-npm-000?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ideapedyudi)
+[![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ideapedyudi)
 
 
 ### 🌱 What I’m Currently Doing

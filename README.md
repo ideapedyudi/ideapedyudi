@@ -19,7 +19,6 @@ I continuously push myself to stay relevant with modern technologies and evolvin
 
 ### 🙋‍♂️ Connect With Me
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ideapedyudi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/msyudi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ideapedyudi@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-12b847?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/6288226249068)

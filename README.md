@@ -6,8 +6,8 @@
 [![An image of @ideapedyudi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ideapedyudi)](https://holopin.io/@ideapedyudi) -->
 
 
-### 🧑 About Me
-Hi, my name is **Muhammad Wahyudi**. I am a **Full Stack Developer**.  
+### Hello there 👋
+My name is **Muhammad Wahyudi**. I am a **Full Stack Developer**.  
 What you are seeing here is the result of code that I have designed and built into real applications.
 
 I am also highly interested in exploring:

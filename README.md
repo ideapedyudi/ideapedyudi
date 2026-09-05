@@ -53,8 +53,6 @@ I continuously push myself to stay relevant with modern technologies and evolvin
   - AI / LLM
 - Grow both technically and professionally in the tech industry
 
-<br />
-
 ### 🖥️ Programming Languages & Tools
 
 <p>
